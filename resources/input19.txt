@@ -1,0 +1,5 @@
+1
+Likes(John, Tommy)
+2
+Likes(Bill, x) => Likes (x, Tommy)
+Likes(Bill, John)

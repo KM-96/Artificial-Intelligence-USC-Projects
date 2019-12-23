@@ -1,0 +1,6 @@
+1
+TG(S)
+3
+RG(x,x) => TG(S)
+EG(y) => RG(y,Bob)
+EG(Bob)

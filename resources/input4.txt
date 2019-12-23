@@ -1,0 +1,12 @@
+1
+Likes(Ravi,Peanuts)
+9
+Food(x) => Likes (Ravi, x)
+Food (Apple)
+Food (Chicken)
+Eats (a, b) & ~Killed (a) => Food (b)
+Eats (Ajay, Peanuts)
+Alive (Ajay)
+Eats (Ajay, c) => Eats (Rita, c)
+Alive(d) => ~Killed (d)
+~Killed(e) => Alive(e)

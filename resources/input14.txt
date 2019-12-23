@@ -1,0 +1,8 @@
+1
+Likes(Steve,x)
+5
+Easy(x) => Likes(Steve,x)
+Science(x) => ~Easy(x)
+Science(x) => ~Easy(x)
+Basketweaving(x) => Easy(x)
+Basketweaving(BK301)

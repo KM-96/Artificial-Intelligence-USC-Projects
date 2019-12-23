@@ -1,0 +1,6 @@
+1
+R(Jill)
+3
+P(x,y,Bob) & Q(x) => R(x)
+R(Bill) => P(Bill,Rim,Bill)
+R(Prince) => Q(John)

@@ -1,0 +1,7 @@
+1
+Above(A,C)
+4
+On(x,y) & Above(y,z) => Above(x,z)
+On(x,y) => Above(x,y)
+On(A,F)
+On(F,C)

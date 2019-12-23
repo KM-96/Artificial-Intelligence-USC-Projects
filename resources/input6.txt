@@ -1,0 +1,5 @@
+1
+Father(Joe,John)
+2
+Father(x,y)
+Father(Joe,x)

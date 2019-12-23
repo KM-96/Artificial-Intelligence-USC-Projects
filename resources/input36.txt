@@ -1,0 +1,11 @@
+1
+Faster(B,S) 
+8
+Faster(x,y) & Faster(y,z) => Faster(x,z) 
+Faster(B,N) 
+Faster(N,P)
+Faster(P,A)  
+Faster(A,S)
+Faster(S,I)
+Faster(I,M) 
+Faster(M,S)

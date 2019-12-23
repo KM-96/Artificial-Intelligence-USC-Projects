@@ -1,0 +1,11 @@
+1
+Criminal(RealityMan)
+8
+Programmer(x) & Emulator(y) & People(z) & Provide(x,z,y) => Criminal(x)
+Use(friends,x) & Runs(x,N64games) => Provide(RealityMan,friends,x)
+Software(x) & Runs(x,N64games) => Emulator(x)
+Programmer(RealityMan)
+People(friends)
+Software(U64)
+Use(friends,U64)
+Runs(U64,N64games)

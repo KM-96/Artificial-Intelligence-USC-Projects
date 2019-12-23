@@ -1,0 +1,146 @@
+
+The output for 1
+FALSE
+The output for 2
+TRUE
+FALSE
+The output for 3
+FALSE
+TRUE
+FALSE
+The output for 4
+TRUE
+The output for 5
+FALSE
+The output for 6
+TRUE
+The output for 7
+TRUE
+The output for 8
+FALSE
+The output for 9
+TRUE
+The output for 10
+TRUE
+The output for 11
+TRUE
+The output for 12
+TRUE
+The output for 13
+TRUE
+The output for 14
+TRUE
+The output for 15
+TRUE
+The output for 16
+TRUE
+The output for 17
+FALSE
+The output for 18
+FALSE
+The output for 19
+TRUE
+The output for 20
+TRUE
+TRUE
+TRUE
+The output for 21
+TRUE
+TRUE
+TRUE
+The output for 22
+TRUE
+The output for 23
+TRUE
+The output for 24
+TRUE
+FALSE
+The output for 25
+TRUE
+FALSE
+The output for 26
+TRUE
+The output for 27
+TRUE
+The output for 28
+TRUE
+The output for 29
+FALSE
+The output for 30
+FALSE
+The output for 31
+TRUE
+The output for 32
+TRUE
+The output for 33
+TRUE
+The output for 34
+TRUE
+The output for 35
+TRUE
+The output for 36
+TRUE
+The output for 37
+TRUE
+The output for 38
+TRUE
+The output for 39
+TRUE
+The output for 40
+FALSE
+TRUE
+FALSE
+FALSE
+TRUE
+FALSE
+FALSE
+TRUE
+FALSE
+FALSE
+TRUE
+FALSE
+FALSE
+TRUE
+FALSE
+FALSE
+TRUE
+FALSE
+FALSE
+TRUE
+FALSE
+FALSE
+TRUE
+FALSE
+FALSE
+TRUE
+FALSE
+FALSE
+TRUE
+FALSE
+FALSE
+TRUE
+FALSE
+The output for 41
+TRUE
+The output for 42
+TRUE
+The output for 43
+FALSE
+The output for 44
+TRUE
+The output for 45
+TRUE
+The output for 46
+TRUE
+The output for 47
+TRUE
+The output for 48
+FALSE
+The output for 49
+TRUE
+The output for 50
+TRUE
+The output for 51
+FALSE
+The output for 52
+TRUE

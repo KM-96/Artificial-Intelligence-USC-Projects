@@ -1,0 +1,5 @@
+1
+T(Bob)
+2
+T(x) & T(x) & T(x) & ~T(x) => P(x)
+T(Bob)

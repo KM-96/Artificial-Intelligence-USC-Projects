@@ -1,0 +1,6 @@
+1
+Faster(Bob, Kate)
+3
+Faster(x,y) & Faster(y,z) => Faster(x,z)
+Faster(Bob, John)
+Faster(John, Kate)
