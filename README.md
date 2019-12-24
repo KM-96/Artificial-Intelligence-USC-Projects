@@ -37,6 +37,29 @@ java LogicAgent
 
 ## Code Structure / File description
 
+`Format for input.txt`
+
+ <N = NUMBER OF QUERIES>
+
+ <QUERY 1>
+ 
+ …
+
+ <QUERY N>
+  
+ <K = NUMBER OF GIVEN SENTENCES IN THE KNOWLEDGE BASE>
+
+ <SENTENCE 1>
+ 
+ …
+
+ <SENTENCE K>
+  
+The first line contains an integer N specifying the number of queries. The following N lines contain
+one query per line. The line after the last query contains an integer K specifying the number of
+sentences in the knowledge base. The remaining K lines contain the sentences in the knowledge
+base, one sentence per line.
+
 `Query format`
 
 Each query will be a single literal of the form Predicate(Constant_Arguments) or
@@ -62,6 +85,29 @@ input. But you will likely need it to create your proofs. <br/>
 4. ~ denotes the negation operator.<br/>
 5. No other operators besides &, =>, and ~ are used in the knowledge base.<br/>
 6. There will be no parentheses in the KB except as used to denote arguments of predicates.<br/>
+7. Variables are denoted by a single lowercase letter.<br/>
+8. All predicates (such as HighBP) and constants (such as Alice) are case sensitive
+alphabetical strings that begin with uppercase letters.<br/>
+9. Each predicate takes at least one argument. Predicates will take at most 25 arguments. A
+given predicate name will not appear with different number of arguments.<br/>
+10. There will be at most 10 queries and 100 sentences in the knowledge base.<br/>
+11. See the sample input below for spacing patterns.<br/>
+12. You can assume that the input format is exactly as it is described.<br/>
+13. There will be no syntax errors in the given input.<br/>
+14. The KB will be true (i.e., will not contain contradictions).<br/>
+
+`Format for output.txt:`
+
+For each query, determine if that query can be inferred from the knowledge base or not, one
+query per line:
+
+<ANSWER 1>
+…
+<ANSWER N>
+
+Each answer should be either TRUE if you can prove that the corresponding query sentence is
+true given the knowledge base, or FALSE if you cannot.
+  
 
 `/agent/KnowledgeBasedAgent.java`
 
