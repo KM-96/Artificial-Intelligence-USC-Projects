@@ -1,0 +1,7 @@
+1
+Loves(John,ResidentEvil)
+4
+Game(ResidentEvil)
+Game(GodOfWar)
+Game(x) & Game(y) & Loves(z,x) => Loves(z,y)
+Loves(John, GodOfWar)

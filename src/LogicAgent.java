@@ -5,13 +5,13 @@ import util.FileWriter;
 
 import java.util.List;
 
-public class homework {
+public class LogicAgent {
     public static void main(String[] args) {
         long time = System.currentTimeMillis();
         try {
             //Step 1: Read input file
-            String filename = "input54.txt";
-            FileReader fileReader = new FileReader("G:\\Masters CS\\Study\\Fall 2019\\Artificial Intelligence\\Homework\\Homework3\\homework3\\resources\\" + filename);
+            String filename = "input.txt";
+            FileReader fileReader = new FileReader(".\\resources\\" + filename);
             Input input = fileReader.readFile();
 
             //Step 2: Perform Resolution

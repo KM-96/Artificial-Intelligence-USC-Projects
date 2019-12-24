@@ -1,0 +1,7 @@
+1
+Rich(Me)
+4
+Phd(a,b,c,d,e,f,g,h,i,j,k,l,m,n,o,p,q,r,s,t,u,v,w,x,y,z) => High(x)
+~Phd(a,b,c,d,e,f,g,h,i,j,k,l,m,n,o,p,q,r,s,t,u,v,w,x,y,z) => Ear(x)
+High(x) => Rich(x)
+Ear(x) => Rich(x)

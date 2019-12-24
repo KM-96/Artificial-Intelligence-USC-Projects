@@ -1,0 +1,7 @@
+3
+Likes(Bill, John)
+Likes(Bill, Sam)
+Likes(Sam, John)
+2
+Likes(Bill, x)
+Likes(x, John)

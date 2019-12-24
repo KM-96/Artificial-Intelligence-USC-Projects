@@ -1,0 +1,12 @@
+3
+~Study(Bob)
+WorkOnHW(Bob)
+~StudyBreak(Bob)
+7
+ExamNextWeek(x) => Study(x)
+HomeworkDueNextWeek(x) & HighWeightageOfHomework(x) => WorkOnHW(x)
+Study(x) => GoodGrades(x)
+~GoodGrades(x)
+StudyBreak(x) => ExamNextWeek(x)
+HomeworkDueNextWeek(x)
+HighWeightageOfHomework(x)

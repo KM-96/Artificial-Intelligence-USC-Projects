@@ -1,0 +1,5 @@
+1
+P(Tim, Lola)
+2
+~P(x,y) => P(u,v)
+P(s,t) => ~P(w,z)

@@ -1,0 +1,9 @@
+1
+Successful(Timmy)
+6
+Obtain(x,MBA) & Graduate(x, CumLaude) => Successful(x)
+Wealthy(Timmy)
+Wealthy(x) => Graduate(x, CumLaude)
+Invest(x) => Obtain(x,y)
+Wealthy(x) => Obtain(x,y)
+~Invest(Timmy)

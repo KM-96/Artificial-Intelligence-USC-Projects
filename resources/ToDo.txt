@@ -1,0 +1,1 @@
+1. Handle cases where p1, p2, p3 and so on the KB input format are same.

@@ -1,0 +1,6 @@
+1
+H(Adam)
+3
+D(z,y) => H(x)
+A(x) => D(x,x)
+A(Bob)

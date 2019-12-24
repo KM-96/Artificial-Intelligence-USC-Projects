@@ -1,0 +1,10 @@
+2
+Anc(Li,Bi)
+~Anc(Li,Bi)
+6
+Parent(x,y) & Anc(y,z) => Anc(x,z)
+Parent(x,y) => Anc(x,y)
+Mother(x,y) => Parent(x,y)
+Father(x,y) => Parent(x,y)
+Mother(Li,Ch)
+Father(Ch,Bi)
