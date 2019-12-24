@@ -39,19 +39,27 @@ java LogicAgent
 
 `Format for input.txt`
 
-<N = NUMBER OF QUERIES>
-<QUERY 1>
-…
-<QUERY N>
-<K = NUMBER OF GIVEN SENTENCES IN THE KNOWLEDGE BASE>
-<SENTENCE 1>
-…
-<SENTENCE K>
+ <N = NUMBER OF QUERIES>
+
+ <QUERY 1>
+ 
+ …
+
+ <QUERY N>
+  
+ <K = NUMBER OF GIVEN SENTENCES IN THE KNOWLEDGE BASE>
+
+ <SENTENCE 1>
+ 
+ …
+
+ <SENTENCE K>
   
 The first line contains an integer N specifying the number of queries. The following N lines contain
 one query per line. The line after the last query contains an integer K specifying the number of
 sentences in the knowledge base. The remaining K lines contain the sentences in the knowledge
 base, one sentence per line.
+
 `Query format`
 
 Each query will be a single literal of the form Predicate(Constant_Arguments) or
