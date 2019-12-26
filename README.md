@@ -34,6 +34,8 @@ javac LogicAgent.java
 java LogicAgent
 ```
 
+`Note:` Change the relative path to the input.txt file accordingly.
+
 
 ## Code Structure / File description
 
